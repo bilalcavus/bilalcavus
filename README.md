@@ -46,6 +46,6 @@
 <a href="https://www.linkedin.com/in/bilalcavus/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:bilalcavus@example.com">
+<a href="mailto:bilalcavus01@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
