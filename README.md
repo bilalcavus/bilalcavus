@@ -4,6 +4,8 @@
 
 <h1 align="left">Hey, I'm Bilal 👋</h1>
 <h3 align="left">I'm a mobile developer who building with Flutter and Kotlin.
+<h3 align="left">✨ Don't forget to check out my portfolio for more:  
+👉 https://bilalcavus.github.io/MyPortfolio
 </h3>
 
 ---
